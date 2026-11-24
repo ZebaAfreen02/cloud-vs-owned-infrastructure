@@ -161,7 +161,7 @@ The findings should therefore be interpreted as a comparative cost-modeling exer
 
 The complete report contains the detailed calculations, assumptions, cost comparisons, charts, sensitivity analysis, references, and decision framework.
 
-**[Read the Full Research Report](RentVsOwnGroup8FinalReport%283%29.pdf)**
+**[Read the Full Research Report](RentVsOwnFinalReport.pdf)**
 
 ## Academic Context
 
